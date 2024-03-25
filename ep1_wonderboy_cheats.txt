@@ -1,0 +1,5 @@
+Level select	POKE 2391,X SYS 2112 (X represents the level)
+Unlimited health	POKE 11760,165 POKE 62379,165 POKE 62401,165 POKE 62728,165
+Unlimited lives	Type C at the title screen.
+Unlimited lives(Alternate)	POKE 2676,234 POKE 2677,234 POKE 2678,234 SYS 2112
+Unlimited lives(Alternate)	POKE 2676,238 SYS 2112
